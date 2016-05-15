@@ -2,8 +2,7 @@
 **	README
 **	N-Queen Solver
 **	by Connor Haskins
-**	4/28/2016
-**
+**	5/14/2016
 */
 
 FOR BUILDING/RUNNING...
